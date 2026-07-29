@@ -15,4 +15,4 @@ Installing RDKit in Google Colab takes only one line of code using pip.
 Open a code cell in Google Colab and run:
 ```bash
 !pip install rdkit
-
+> Note: The exclamation mark ! is required at the beginning of the command when installing packages directly inside a Google Colab code cell.
