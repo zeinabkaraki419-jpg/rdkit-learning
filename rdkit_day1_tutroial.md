@@ -36,7 +36,7 @@ When an atom has a charge or specific isotopic/stereochemical rules, it is enclo
  * [nH]  -> Nitrogen in an aromatic ring with an attached Hydrogen.
 [!CAUTION]
 ** Quick Examples Summary**
-# Simple linear chain (Ethanol)
+** Simple linear chain (Ethanol)**
 ethanol = "CCO"
 # Molecule with a branch and double bond (Acetone)
 acetone = "CC(=O)C"
