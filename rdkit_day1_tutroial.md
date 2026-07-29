@@ -15,7 +15,7 @@ If no symbol is written between two atoms, a single bond is assumed.
 | *(none)* | Single Bond | CC | Ethane (CH_3-CH_3) |
 | = | Double Bond | C=C | Ethene (CH_2=CH_2) |
 | # | Triple Bond | C#C | Ethyne ( ($CH \equiv CH$). ) |
-| : | Aromatic Bond | c1ccccc1 | Benzene ring |`c:1:c:c:c:c:c1`
+| : | Aromatic Bond | c1ccccc1 | Benzene ring |
 
 ### 3. Branches (Parentheses ())
 Branches in a molecular chain are enclosed in round brackets (). The atom inside the bracket is attached to the atom right before the bracket.
@@ -27,13 +27,13 @@ Branches in a molecular chain are enclosed in round brackets (). The atom inside
 Rings are written by breaking one bond in the loop and labeling both ends with the same number.
  * Example (Cyclohexane): C1CCCCC1
    * The 1 after the first C and the 1 after the last C tell RDKit that these two carbons are connected to close the ring.
- * Example (Benzene): c1ccccc1
+ * Example (Benzene): c:1:c:c:c:c:c1
    * Lowercase c means aromatic ring, and the 1s close the 6-carbon loop.
 ### 5. Charges & Explicit Hydrogens (Square Brackets [])
 When an atom has a charge or specific isotopic/stereochemical rules, it is enclosed in square brackets [].
- * [Na+] \rightarrow Sodium ion with a +1 charge.
- * [OH-] \rightarrow Hydroxide ion with a -1 charge.
- * [nH] \rightarrow Nitrogen in an aromatic ring with an attached Hydrogen.
+ * [Na+] ->Sodium ion with a +1 charge.
+ * [OH-] -> Hydroxide ion with a -1 charge.
+ * [nH]  -> Nitrogen in an aromatic ring with an attached Hydrogen.
 ## Quick Examples Summary
 # Simple linear chain (Ethanol)
 ethanol = "CCO"
