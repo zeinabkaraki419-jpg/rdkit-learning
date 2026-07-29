@@ -19,15 +19,6 @@ This repository documents my progress learning RDKit, including notes, code exam
 * Build small practical projects using RDKit 🚀
 
 ---
-# 🧪 RDKit & Cheminformatics Learning Journey
-Welcome to my RDKit learning repository! Here is the structured roadmap for all daily lessons:
-
-| # Day | Topics | Folder Link |
-| :--- | :--- | :--- |
-| 00 | Introduction & Google Colab Setup | [00_Introduction](./00_Introduction) |
-| 01 | SMILES Representation & Mol Objects | [01_Day_SMILES](./01_Day_SMILES) |
-| 02 | Substructure Search & SMARTS | *Coming Soon* |
-| 03 | Molecular Descriptors & Fingerprints | *Coming Soon* |
 
 ---
 
@@ -50,3 +41,14 @@ All notebooks are designed to run on **Google Colab** — no local setup require
  * **Status:** 🚧 *Work in progress — updated as I learn.*
  * **License:** 📄 *This project is for personal learning purposes.*
 ```
+# 🧪 RDKit & Cheminformatics Learning Journey
+Welcome to my RDKit learning repository! Here is the structured roadmap for all daily lessons:
+
+| # Day | Topics | Folder Link |
+| :--- | :--- | :--- |
+| 00 | Introduction & Google Colab Setup | [00_Introduction](./00_Introduction) |
+| 01 | SMILES Representation & Mol Objects | [01_Day_SMILES](./01_Day_SMILES) |
+| 02 | Substructure Search & SMARTS | *Coming Soon* |
+| 03 | Molecular Descriptors & Fingerprints | *Coming Soon* |
+
+---
