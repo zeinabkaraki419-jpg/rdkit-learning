@@ -1,4 +1,4 @@
-Here is a clear, simple explanation of SMILES string rules that you can add directly to your tutorial notes or GitHub README.
+
 ## What is a SMILES String?
 SMILES stands for Simplified Molecular Input Line Entry System. It is a way to represent a 3D chemical structure using simple line text (letters, numbers, and symbols).
 ## 5 Basic Rules of SMILES Strings
