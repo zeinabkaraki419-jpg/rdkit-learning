@@ -14,7 +14,7 @@ If no symbol is written between two atoms, a single bond is assumed.
 | :--- | :--- | :--- | :--- |
 | *(none)* | Single Bond | CC | Ethane (CH_3-CH_3) |
 | = | Double Bond | C=C | Ethene (CH_2=CH_2) |
-| # | Triple Bond | C#C | Ethyne (CH \equiv CH) |
+| # | Triple Bond | C#C | Ethyne ( \(\{HC}\equiv\text{CH}\). ) |
 | : | Aromatic Bond | c1ccccc1 | Benzene ring |
 
 ### 3. Branches (Parentheses ())
