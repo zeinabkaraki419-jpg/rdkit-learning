@@ -13,6 +13,7 @@ We use RDKit because it simplifies working with chemical data:
 Installing RDKit in Google Colab takes only one line of code using pip.
 ### Step 1: Install RDKit
 Open a code cell in Google Colab and run:
+```bash
 !pip install rdkit
 
 ### Step 2: Quick Example Code
