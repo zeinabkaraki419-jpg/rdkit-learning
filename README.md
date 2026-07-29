@@ -22,7 +22,6 @@ Run the cells and start exploring!
 📖 Resources
 🔗https://github.com/PatWalters/practical_cheminformatics_tutorials
 🔗https://www.rdkit.org/docs/GettingStartedInPython.html
-
 📝 Status
 🚧 Work in progress — updated as I learn.
 📄 License
