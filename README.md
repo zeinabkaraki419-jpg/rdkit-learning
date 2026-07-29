@@ -40,7 +40,7 @@ All notebooks are designed to run on **Google Colab** — no local setup require
 ## 📜 Status & License
  * **Status:** 🚧 *Work in progress — updated as I learn.*
  * **License:** 📄 *This project is for personal learning purposes.*
-```
+
 
 # 🧪 RDKit & Cheminformatics Learning Journey
 Welcome to my RDKit learning repository! Here is the structured roadmap for all daily lessons:
