@@ -1,3 +1,4 @@
+<img width="1280" height="698" alt="6003775259863092652" src="https://github.com/user-attachments/assets/1e82f5c9-9022-42a6-81b4-8790eb82b430" />
 
 # 🧬 RDKit Learning
 
