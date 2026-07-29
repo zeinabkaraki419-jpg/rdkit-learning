@@ -34,6 +34,7 @@ When an atom has a charge or specific isotopic/stereochemical rules, it is enclo
  * [Na+] ->Sodium ion with a +1 charge.
  * [OH-] -> Hydroxide ion with a -1 charge.
  * [nH]  -> Nitrogen in an aromatic ring with an attached Hydrogen.
+[!CAUTION]
 ## Quick Examples Summary
 # Simple linear chain (Ethanol)
 ethanol = "CCO"
