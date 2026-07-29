@@ -32,8 +32,8 @@ python
 > **Tip:** To save your work, use File -> Save a copy in GitHub from within Colab to push notebooks directly to this repository. 📖
 > 
 ## 📖 Resources
- * 🔗 Practical Cheminformatics Tutorials
- * 🔗 RDKit Documentation
+* 🔗 [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials)
+* 🔗 [RDKit Documentation](https://www.rdkit.org/docs/GettingStartedInPython.html)
 ## 📜 Status & License
  * **Status:** 🚧 *Work in progress — updated as I learn.*
  * **License:** 📄 *This project is for personal learning purposes.*
