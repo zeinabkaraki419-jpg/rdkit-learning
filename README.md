@@ -25,9 +25,9 @@ All notebooks are designed to run on **Google Colab** — no local setup require
 1. Open any notebook from the `notebooks/` folder directly in Colab.
 2. Install RDKit in the first cell of the notebook:
    
-python
+```python
    !pip install rdkit
-
+```
  3. Run the cells and start exploring! 💡
 > **Tip:** To save your work, use File -> Save a copy in GitHub from within Colab to push notebooks directly to this repository. 📖
 > 
