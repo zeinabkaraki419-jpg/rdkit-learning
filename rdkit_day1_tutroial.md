@@ -34,15 +34,12 @@ When an atom has a charge or specific isotopic/stereochemical rules, it is enclo
  * [Na+] ->Sodium ion with a +1 charge.
  * [OH-] -> Hydroxide ion with a -1 charge.
  * [nH]  -> Nitrogen in an aromatic ring with an attached Hydrogen.
-[!CAUTION]
-** Quick Examples Summary**
-** Simple linear chain (Ethanol)**
-ethanol = "CCO"
-# Molecule with a branch and double bond (Acetone)
-acetone = "CC(=O)C"
-# Ring structure (Cyclopropane)
-cyclopropane = "C1CC1"
-# Aromatic Ring (Benzene)
-benzene = "c1ccccc1"
-# Charged compound (Sodium Acetate)
-sodium_acetate = "CC(=O)[O-].[Na+]"  # '.' separates disconnected molecules/ions
+### 🔴 Quick Examples Summary
+
+| Description | SMILES Code | Note |
+| :--- | :--- | :--- |
+| Simple linear chain (Ethanol) | ethanol = "CCO" | Simple single-bonded chain |
+| Branch & Double bond (Acetone) | acetone = "CC(=O)C" | () creates branch, = is double bond |
+| Ring structure (Cyclopropane) | cyclopropane = "C1CC1" | Numbers 1 open and close the ring |
+| Aromatic Ring (Benzene) | benzene = "c1ccccc1" | Lowercase c indicates aromaticity |
+| Charged compound (Sodium Acetate) | sodium_acetate = "CC(=O)[O-].[Na+]" | [] for charges, . for separated ions |
