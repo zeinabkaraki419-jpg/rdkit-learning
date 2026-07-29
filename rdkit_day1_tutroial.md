@@ -14,8 +14,8 @@ If no symbol is written between two atoms, a single bond is assumed.
 | :--- | :--- | :--- | :--- |
 | *(none)* | Single Bond | CC | Ethane (CH_3-CH_3) |
 | = | Double Bond | C=C | Ethene (CH_2=CH_2) |
-| # | Triple Bond | C#C | Ethyne ( \(\{HC}\equiv\text{CH}\). ) |
-| : | Aromatic Bond | c1ccccc1 | Benzene ring |
+| # | Triple Bond | C#C | Ethyne ( ($CH \equiv CH$). ) |
+| : | Aromatic Bond | c1ccccc1 | Benzene ring |`c:1:c:c:c:c:c1`
 
 ### 3. Branches (Parentheses ())
 Branches in a molecular chain are enclosed in round brackets (). The atom inside the bracket is attached to the atom right before the bracket.
