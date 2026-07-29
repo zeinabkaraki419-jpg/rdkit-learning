@@ -16,19 +16,3 @@ Open a code cell in Google Colab and run:
 ```bash
 !pip install rdkit
 
-### Step 2: Quick Example Code
-Run this simple Python code in your Colab notebook to check if RDKit is working properly:
-from rdkit import Chem
-from rdkit.Chem import Draw
-
-# Create a molecule from a SMILES string (Aspirin)
-smiles = "CC(=O)OC1=CC=CC=C1C(=O)O"
-mol = Chem.MolFromSmiles(smiles)
-
-# Print Molecular Weight
-from rdkit.Chem import Descriptors
-mw = Descriptors.ExactMolWt(mol)
-print(f"Molecular Weight: {mw:.2f}")
-
-# Draw the molecule
-Draw.MolToImage(mol)
