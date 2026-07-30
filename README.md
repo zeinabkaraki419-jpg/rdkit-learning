@@ -49,7 +49,7 @@ Welcome to my RDKit learning repository! Here is the structured roadmap for all 
 | :--- | :--- | :--- |
 | 00 | Introduction & Google Colab Setup | [00_Introduction](./00_Introduction) |
 | 01 | SMILES Representation & Mol Objects | [01_Day_SMILES](./01_Day_SMILES) |
-| 02 | Substructure Search & SMARTS | *Coming Soon* |
+| 02 | Draw | [02_Day_RDkitVisualization&AtomCOUNTING](./02_Day_RDkitVisualization&AtomCOUNTING) |
 | 03 | Molecular Descriptors & Fingerprints | *Coming Soon* |
 
 ---
