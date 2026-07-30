@@ -1,3 +1,4 @@
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/131d978f-b42b-4c97-92a7-35d325152781" />
 
 # 🧪 What is the Crippen Module in RDKit?
 In RDKit, the rdkit.Chem.Crippen module is dedicated to calculating key physicochemical properties of molecules based on an atom-based group contribution method. It is named after scientist Gordon M. Crippen, who co-developed the mathematical models behind these calculations.
