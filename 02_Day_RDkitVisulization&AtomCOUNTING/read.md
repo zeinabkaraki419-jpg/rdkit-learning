@@ -1,3 +1,5 @@
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/8b2a1e45-5994-42a2-9865-37492ea34f16" />
+
 # 🧪 Day 02: RDKit Visualization & Atom Counting
 
 In this section, we cover how to count atoms in a molecule, handle implicit/explicit hydrogens (Heavy Atoms), and render 2D chemical structure images using RDKit.
@@ -24,7 +26,10 @@ print(mol_h.GetNumAtoms()) #8 include hydrogen atom
 ```
 
 ---
-## 🎨 2D Chemical Structure Visualization
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/f6299ae5-e9f7-48d6-8758-3fefb2903e6d" />
+
+##
+🎨 2D Chemical Structure Visualization
 RDKit provides built-in utilities in the `rdkit.Chem.Draw` module to render 2D images of chemical structures, either individually or in a grid format.
 ---
 ### 1. Importing the Drawing Module
