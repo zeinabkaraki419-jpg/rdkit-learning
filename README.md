@@ -52,6 +52,7 @@ Welcome to my RDKit learning repository! Here is the structured roadmap for all 
 | 02 | Draw&AtomCount | [02_Day_RDkitVisulization&AtomCOUNTING](./02_Day_RDkitVisulization&AtomCOUNTING) |
 | 03 | Molecular Descriptors  | [03_Day_MolecularDescriptors](./03_Day_MolecularDescriptors) |
 |04  | SmartsPatterns| [04_Day_SmartsPattern](.04_Day_SmartsPattern)|
+|05| Fingerprint&Similarity|[05_Day_Similarity&Fingerprint](./05_Day_Similarit&Fingerprint)|
 
 ---
 
