@@ -51,7 +51,7 @@ Welcome to my RDKit learning repository! Here is the structured roadmap for all 
 | 01 | SMILES Representation & Mol Objects | [01_Day_SMILES](./01_Day_SMILES) |
 | 02 | Draw&AtomCount | [02_Day_RDkitVisulization&AtomCOUNTING](./02_Day_RDkitVisulization&AtomCOUNTING) |
 | 03 | Molecular Descriptors & Fingerprints | [03_Day_MolecularDescriptors](./03_Day_MolecularDescriptors) |
-|04  | SmartsPatterns||
+|04  | SmartsPatterns| [04_Day_SmartsPattern](.04_Day_SmartsPattern)|
 
 ---
 
