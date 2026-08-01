@@ -53,6 +53,8 @@ Welcome to my RDKit learning repository! Here is the structured roadmap for all 
 | 03 | Molecular Descriptors  | [03_Day_MolecularDescriptors](./03_Day_MolecularDescriptors) |
 |04  | SmartsPatterns| [04_Day_SmartsPattern](.04_Day_SmartsPattern)|
 |05| Fingerprint&Similarity|[05_Day_Similarity&Fingerprint](./05_Day_Similarit&Fingerprint)|
+| 06    |   REVIEW   |    |
+|07|    |  |
 
 ---
 
