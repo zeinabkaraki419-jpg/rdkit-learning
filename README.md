@@ -55,7 +55,9 @@ Welcome to my RDKit learning repository! Here is the structured roadmap for all 
 |05| Fingerprint&Similarity|[05_Day_Similarity&Fingerprint](./05_Day_Similarit&Fingerprint)|
 | 06    |   REVIEW   |  [06_Day_REVIEW](./06_Day_REVIEW)  |
 |07| Pandas   | [07_Day_Pandas](./07_Day_pandas) |
-|  |  |  |
+| 08 |Stereoisomers  |[08_Day_Stereoisomers](/08_Day_steroisomers)  |
+|09| Clustering| [09_Day_Clustering](/09_Day_Clustering)|
+|010|Scaffold&R-group&SAR|[010_Day_Scaffold&R-group&SAR](/010_Day_Scaffold&R-group&SAR)|
 
 ---
 
